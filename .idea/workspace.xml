@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8fe2472b-b677-4040-924a-66fb7569c3c7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/assets/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/about/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/about/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/about/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/about/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/close-icon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/header-bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/logos/facebook.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/logos/google.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/logos/ibm.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/logos/microsoft.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/map-image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/navbar-logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/team/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/team/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/team/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/scripts.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1tkxMojT0q7U0h2fNcZreeNWsTk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8fe2472b-b677-4040-924a-66fb7569c3c7" name="Default Changelist" comment="" />
+      <created>1623326845778</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623326845778</updated>
+      <workItem from="1623326848068" duration="6000" />
+    </task>
+    <servers />
+  </component>
+</project>

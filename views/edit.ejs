@@ -1,0 +1,30 @@
+<!-- Contact-->
+<section class="page-section" id="contact">
+    <div class="container">
+        <div class="text-center">
+            <h2 class="section-heading text-uppercase">Update Photo</h2>
+            <h3 class="section-subheading text-muted"></h3>
+        </div>
+
+        <form class="tm-contact-form" method="POST" action="/photos/<%= photo._id %>?_method=PUT" encType="multipart/form-data">
+            <div class="row align-items-stretch mb-5">
+                <div class="col-md-6 offset-3">
+                    <div class="form-group">
+                        <!-- Name input-->
+                        <input value="<%= photo.title %>" class="form-control rounded-0" name="title" type="text" placeholder="Photo Title" required/>
+                        <div class="invalid-feedback" data-sb-feedback="name:required"></div>
+                    </div>
+                    <div class="form-group">
+                        <!-- Email address input-->
+                        <input value="<%= photo.description %>" class="form-control rounded-0" name="description" type="text" placeholder="Photo Description">
+                    </div>
+                        <input type="file" name="image" class="form-control-file offset-0">
+                </div>
+            </div>
+
+            <!-- Submit Button-->
+            <div class="text-center"><button class="btn btn-primary btn-xl " id="submitButton"
+                    type="submit">UPDATE PHOTO</button></div>
+        </form>
+    </div>
+</section>

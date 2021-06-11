@@ -1,0 +1,31 @@
+{
+  "name": "agency",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "express-fileupload": "^1.2.1",
+    "method-override": "^3.0.0",
+    "mongoose": "^5.12.13",
+    "prettier": "^2.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bugrahanozturkk/Agency.git"
+  },
+  "author": "Buğrahan Öztürk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bugrahanozturkk/Agency/issues"
+  },
+  "homepage": "https://github.com/bugrahanozturkk/Agency#readme"
+}
