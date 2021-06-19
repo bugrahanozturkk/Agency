@@ -1,2 +1,11 @@
-Bu projemde sitemizde bulunan portfolio kısmındaki statik olan görselleri contact sayfasını kullanarak oluşturduğum görsel, görsel başlığı ve görsel açıklaması ekleme
-özellikleriyle dinamik bir hale getirdim. Ek olarak görselleri silmek ve düzenlemek için de gerekli çalışmaları yaptım.
+
+
+<h1>About</h1>
+<p>This project was made to share your portfolio.<p>
+
+
+<h2>Technologies</h2>
+ 
+<li>Express.JS</li>
+<li>MongoDB</li>
+<li>EJS</li>
